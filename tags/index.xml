@@ -12,38 +12,11 @@
     
     
     <item>
-      <title>Aws</title>
-      <link>https://atakanyenel.github.io/tags/aws/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atakanyenel.github.io/tags/aws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cloud Computing</title>
       <link>https://atakanyenel.github.io/tags/cloud-computing/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://atakanyenel.github.io/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Devops</title>
-      <link>https://atakanyenel.github.io/tags/devops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atakanyenel.github.io/tags/devops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Docker Swarm</title>
-      <link>https://atakanyenel.github.io/tags/docker-swarm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atakanyenel.github.io/tags/docker-swarm/</guid>
       <description></description>
     </item>
     
@@ -57,25 +30,7 @@
     </item>
     
     <item>
-      <title>Gke</title>
-      <link>https://atakanyenel.github.io/tags/gke/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atakanyenel.github.io/tags/gke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://atakanyenel.github.io/tags/go/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atakanyenel.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iot</title>
+      <title>IOT</title>
       <link>https://atakanyenel.github.io/tags/iot/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -93,20 +48,92 @@
     </item>
     
     <item>
-      <title>Javascript</title>
-      <link>https://atakanyenel.github.io/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://atakanyenel.github.io/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kafka</title>
       <link>https://atakanyenel.github.io/tags/kafka/</link>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>https://atakanyenel.github.io/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LRZ</title>
+      <link>https://atakanyenel.github.io/tags/lrz/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/lrz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://atakanyenel.github.io/tags/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://atakanyenel.github.io/tags/devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://atakanyenel.github.io/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker Swarm</title>
+      <link>https://atakanyenel.github.io/tags/docker-swarm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/docker-swarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GKE</title>
+      <link>https://atakanyenel.github.io/tags/gke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/gke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://atakanyenel.github.io/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helm</title>
+      <link>https://atakanyenel.github.io/tags/helm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://atakanyenel.github.io/tags/javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atakanyenel.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
@@ -129,15 +156,6 @@
     </item>
     
     <item>
-      <title>Lrz</title>
-      <link>https://atakanyenel.github.io/tags/lrz/</link>
-      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://atakanyenel.github.io/tags/lrz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Minio</title>
       <link>https://atakanyenel.github.io/tags/minio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -147,7 +165,7 @@
     </item>
     
     <item>
-      <title>Openfoam</title>
+      <title>OpenFoam</title>
       <link>https://atakanyenel.github.io/tags/openfoam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -156,7 +174,7 @@
     </item>
     
     <item>
-      <title>Passa</title>
+      <title>PASSA</title>
       <link>https://atakanyenel.github.io/tags/passa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

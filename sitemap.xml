@@ -8,9 +8,57 @@
   </url>
   
   <url>
+    <loc>https://atakanyenel.github.io/tags/cloud-computing/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atakanyenel.github.io/tags/elasticsearch/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atakanyenel.github.io/tags/iot/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atakanyenel.github.io/tags/java/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atakanyenel.github.io/tags/kafka/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atakanyenel.github.io/tags/lrz/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atakanyenel.github.io/publications/fie2018/</loc>
     <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://atakanyenel.github.io/publications/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://atakanyenel.github.io/tags/</loc>
+    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -34,24 +82,17 @@
   </url>
   
   <url>
-    <loc>https://atakanyenel.github.io/tags/cloud-computing/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atakanyenel.github.io/tags/devops/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atakanyenel.github.io/tags/docker-swarm/</loc>
+    <loc>https://atakanyenel.github.io/tags/docker/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atakanyenel.github.io/tags/elasticsearch/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <loc>https://atakanyenel.github.io/tags/docker-swarm/</loc>
     <priority>0</priority>
   </url>
   
@@ -66,25 +107,12 @@
   </url>
   
   <url>
-    <loc>https://atakanyenel.github.io/tags/iot/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atakanyenel.github.io/tags/java/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
+    <loc>https://atakanyenel.github.io/tags/helm/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atakanyenel.github.io/tags/javascript/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atakanyenel.github.io/tags/kafka/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -100,12 +128,6 @@
   
   <url>
     <loc>https://atakanyenel.github.io/projects/kyma-vscode/</loc>
-  </url>
-  
-  <url>
-    <loc>https://atakanyenel.github.io/tags/lrz/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -128,25 +150,17 @@
   </url>
   
   <url>
-    <loc>https://atakanyenel.github.io/publications/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://atakanyenel.github.io/tags/s3/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atakanyenel.github.io/search/</loc>
-    <priority>0.1</priority>
+    <loc>https://atakanyenel.github.io/projects/sstk/</loc>
   </url>
   
   <url>
-    <loc>https://atakanyenel.github.io/tags/</loc>
-    <lastmod>2018-10-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://atakanyenel.github.io/search/</loc>
+    <priority>0.1</priority>
   </url>
   
   <url>
